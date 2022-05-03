@@ -1,0 +1,8 @@
+django
+pillow
+h5py
+numpy
+scipy
+matplotlib
+pandas
+tqdm

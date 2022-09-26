@@ -1,0 +1,77 @@
+aj01
+- Los paraguas hacen muy dificil la anotación
+- Tiene fotos de personas
+
+aj02
+- Los paraguas hacen muy dificil la anotación
+- Tiene fotos de personas
+
+aj03
+- Los paraguas hacen dificil la anotación, pero el angulo alto ayuda
+
+aj04
+- Los paraguas hacen dificil la anotación, pero el angulo alto ayuda
+
+aj05
+- Los paraguas hacen dificil la anotación, pero el angulo alto ayuda
+- Muchas personas se salen de la foto
+
+aj06
+- El angulo facilita anotar
+
+aj07
+- Muchas personas se salen de la foto
+
+aj08
+- La foto está movida y eso dificulta mucho la anotación, principalmente en el lado izquierdo
+- La foto no tiene muy buena calidad
+
+aj09
+- Por el ángulo bajo hay algo de oclusión entre las personas
+
+aj1
+- Por el ángulo bajo hay algo de oclusión entre las personas
+
+aj11
+- En el fondo de la imagen hay mucha oclusión y la misma no tiene buena resolución para distinguir bien
+
+aj12
+- Por el ángulo bajo hay algo de oclusión entre las personas
+
+aj13
+- Por el ángulo bajo hay algo de oclusión entre las personas
+
+aj14
+- La baja densidad de personas facilita anotar
+
+aj15
+- Por el ángulo bajo hay algo de oclusión entre las personas
+
+aj16
+- Por el ángulo bajo hay algo de oclusión entre las personas
+
+aj17
+- Imagen senciulla de anotar. Hay una persona atras de la del medio que es  dificil de ver.
+
+am01
+- Imagen sencilla de anotar
+
+am02
+- Imagen sencilla de anotar
+
+am03
+- Imagen razonablemente sencilla de anotar, cuesta ver a las personas lejos
+
+am04
+- Imagen sencilla de anotar
+
+am05
+- Imagen razonablemente sencilla de anotar, cuesta ver a las personas lejos
+
+am06
+- Imagen sencilla de anotar
+
+am07
+- Imagen sencilla de anotar
+
+

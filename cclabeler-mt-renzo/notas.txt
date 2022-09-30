@@ -74,4 +74,102 @@ am06
 am07
 - Imagen sencilla de anotar
 
+bj01
+- Imagen razonablemente sencilla de anotar, los paraguas dificultan la lejania. La mayoria de estimaciones vienen de paraguas
+
+bj02
+- Imagen dificil de anotar. La enorme mayoria de anotaciones son paraguas
+
+bj03
+- Imagen razonablemente sencilla de anotar. La sombra en el fondo y la oclusión de las banderas complica distinguir a la multitud. Se anotarn banderas a lo lejos asumiendo alguien las lleva.
+
+bj04
+- Imagen sencilla de anotar
+
+bj05
+- Imagen razonablemente sencilla de anotar, en el fondo se pixela bastante la hacer zoom
+
+bj06
+- Imagen sencilla de anotar
+
+bj07
+- El fondo de lai magen es dificil de anotar por el brillo. Se destaca dos personas anotadas en la ventana a la derechaww
+
+bj08
+- Imagen sencilla de anotar
+
+bj09
+- Imagen razonablemente sencilla de anotar
+
+bj10
+- Imagen sencilla de anotar. Se destacan unas personas en el fondo a lo lejkos de la multitud.
+
+bj11
+- Imagen sencilla de anotar
+
+bj12
+- Imagen razonablemente sencilla de anotar. Se destacan personas a lo lejos fuera de la multitud
+
+bm01
+- 
+
+bm02
+- 
+
+bm03
+- 
+
+bm04
+- 
+
+bm05
+- 
+
+bm06
+- 
+
+bm07
+- 
+
+bm08
+- 
+
+bm09
+- 
+
+bm10
+- 
+
+bm11
+- 
+
+bm12
+- 
+
+bm13
+- 
+
+cm01
+- 
+
+cm02
+- 
+
+cm03
+- 
+
+cm04
+- 
+
+cm05
+- 
+
+cm06
+- 
+
+cm07
+- 
+
+cm08
+- 
 

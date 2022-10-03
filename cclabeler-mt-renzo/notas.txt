@@ -108,19 +108,19 @@ bj11
 - Imagen sencilla de anotar
 
 bj12
-- Imagen razonablemente sencilla de anotar. Se destacan personas a lo lejos fuera de la multitud
+- Imagen razonablemente sencilla de anotar
 
 bm01
-- 
+- Imagen razonablemente sencilla de anotar
 
 bm02
-- 
+- Imagen dificil de anotar en el fondo. Se destacan muchas personas fuera de la multitud en el horizonte (sobre plataformas).
 
 bm03
-- 
+- Imagen incorrectamente asignada. Tendría que ser C
 
 bm04
-- 
+- Imagen razonablemente compleja de anotar
 
 bm05
 - 

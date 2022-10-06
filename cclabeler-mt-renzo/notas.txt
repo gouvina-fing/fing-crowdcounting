@@ -117,16 +117,16 @@ bm02
 - Imagen dificil de anotar en el fondo. Se destacan muchas personas fuera de la multitud en el horizonte (sobre plataformas).
 
 bm03
-- Imagen incorrectamente asignada. Tendría que ser C
+- Imagen incorrectamente asignada. Duplicada con cm03
 
 bm04
 - Imagen razonablemente compleja de anotar
 
 bm05
-- 
+- Imagen muy dificil de anotar al fondo, las cabezas parecen siendo una masa gris por la iluminación y perspectiva
 
 bm06
-- 
+- Extremadamente dificil de anotar al fondo. Se intentó seguir un patrón. Tendría que ser una imagen C. El humo y pancartas ofuscan gente
 
 bm07
 - 

@@ -129,13 +129,13 @@ bm06
 - Extremadamente dificil de anotar al fondo. Se intentó seguir un patrón. Tendría que ser una imagen C. El humo y pancartas ofuscan gente
 
 bm07
-- 
+- Imagen razonablemente sencilla de etiquetar. Hay ofuscación por la estatua y ramas. Se destacan los carteles con caras (que no fueron anotados)
 
 bm08
-- 
+- Imagen dificl de etiquetar. Poca resolución ym mucha ofuscación con las ramas, se asumió la densidad de personas se mantenia
 
 bm09
-- 
+- Imagen razonable de anotar. Se destaca el problema de perspectiva al fondo. En particualr en las tiendas y omnibuses. Se anotó una persona por auto (conductor)
 
 bm10
 - 

@@ -138,16 +138,16 @@ bm09
 - Imagen razonable de anotar. Se destaca el problema de perspectiva al fondo. En particualr en las tiendas y omnibuses. Se anotó una persona por auto (conductor)
 
 bm10
-- 
+- Imagen facil de anotar adelante, pero borrosa atrás, se estimaron anotaciones atras de los carteles
 
 bm11
 - 
 
 bm12
-- 
+- Imagen razonablemente compleja de editar. En el fondo es muy borrosa, se estimaron anotaciones atrás de las banderas
 
 bm13
-- 
+- Imagen razonablemente compleja de anotar en el fondo. La iluminación y el foco dejan borrosa la foto
 
 cm01
 - 

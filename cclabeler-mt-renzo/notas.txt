@@ -141,7 +141,7 @@ bm10
 - Imagen facil de anotar adelante, pero borrosa atrás, se estimaron anotaciones atras de los carteles
 
 bm11
-- 
+- Imagen tendría que ser C. Muy dificil de etiquetar por la escala, iluminación y calidad. Con máximo zoom todo se ve muy chico y borroso. Se etiquetó intentando llegar a un patrón en las partes obstruidas, y poniendo una cantidad masiva de puntos en las partes donde cada persona es poco más que un pixel
 
 bm12
 - Imagen razonablemente compleja de editar. En el fondo es muy borrosa, se estimaron anotaciones atrás de las banderas

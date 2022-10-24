@@ -150,7 +150,7 @@ bm13
 - Imagen razonablemente compleja de anotar en el fondo. La iluminación y el foco dejan borrosa la foto
 
 cm01
-- 
+- Se editó para tener brillo a 100%. Dentro de todo contrastaban bien las cabezas o en partes habia manchas que se podian asumir cabezas. Habian manchas de completa oscuridad que se estimó rellenando el patrón. Se destacan las personas fuera de la multitud
 
 cm02
 - 

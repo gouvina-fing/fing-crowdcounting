@@ -153,7 +153,7 @@ cm01
 - Se editó para tener brillo a 100%. Dentro de todo contrastaban bien las cabezas o en partes habia manchas que se podian asumir cabezas. Habian manchas de completa oscuridad que se estimó rellenando el patrón. Se destacan las personas fuera de la multitud
 
 cm02
-- 
+- La imagen tiene muy poca calidad y por ende se ve pixelada con zoom, de igual forma las caras contrastan en el frente. Luego por la luz contrastan pero son manchas verdes, se asumió todas eran caras. Al final es todo una masa borrosa.
 
 cm03
 - 

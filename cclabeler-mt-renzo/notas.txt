@@ -156,10 +156,10 @@ cm02
 - La imagen tiene muy poca calidad y por ende se ve pixelada con zoom, de igual forma las caras contrastan en el frente. Luego por la luz contrastan pero son manchas verdes, se asumió todas eran caras. Al final es todo una masa borrosa.
 
 cm03
-- 
+- Imagen muy dificil de etiquetar, no sólo por la cantidad de personas sino porque por la resolución se ve borroso al hacer zoom, cuesta mucho distinguir cabezas y la anotación debe de tener errores. En el fondo se marcaron mmuchos puntos siguendo un patron logic, pero resultaba casi imposible distinguir cabezas. Se destacan personas fuera de la multitud en calles adyacentes. Se anotó una persona en un auto.
 
 cm04
-- 
+- Es claro distinguir a las personas en gran parte de la imagen, si bien son muchas es clara de etiquetar (debido al contraste de prendas). Esto deja de ser así al final de la marcha que incrementa drasticamente la cantidad de gente en la escala. Se agregó una persona dentro del kiosco, dado que tiene una fila. Se destacan personas en ventanas y techos
 
 cm05
 - 

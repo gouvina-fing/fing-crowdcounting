@@ -162,7 +162,7 @@ cm04
 - Es claro distinguir a las personas en gran parte de la imagen, si bien son muchas es clara de etiquetar (debido al contraste de prendas). Esto deja de ser así al final de la marcha que incrementa drasticamente la cantidad de gente en la escala. Se agregó una persona dentro del kiosco, dado que tiene una fila. Se destacan personas en ventanas y techos
 
 cm05
-- 
+- No hay buena calidad al anotar con zoom, pero se distingue razonablemente bien las cabezas en la primer mitad de la imagen, en el fondo solo se pueden estimar puntos en una mancha de muchedumre y arboles. Se destacan las cantidad de personas fuera de la múltitud. Se asumió se sigue el patrón de personas atras de los carteles.
 
 cm06
 - 

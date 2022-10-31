@@ -165,11 +165,12 @@ cm05
 - No hay buena calidad al anotar con zoom, pero se distingue razonablemente bien las cabezas en la primer mitad de la imagen, en el fondo solo se pueden estimar puntos en una mancha de muchedumre y arboles. Se destacan las cantidad de personas fuera de la múltitud. Se asumió se sigue el patrón de personas atras de los carteles.
 
 cm06
-- 
+- Imagen con parcialmente buen contraste para etiquetar. Al fondo sin embargo el sol hace perder este contraste y las cabezas pasan a ser una masa de gente
 
 cm07
-- 
+- Imagen con buen contraste que ayuda a etiquetar, se destacan los carteles tapando la multitud. Al fondo en el horizonte la gente termina siendo una mancha que se llenó de puntos
+
 
 cm08
 - 
-
+- Se destacan las personas en edificios

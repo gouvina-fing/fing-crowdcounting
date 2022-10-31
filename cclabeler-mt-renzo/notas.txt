@@ -170,7 +170,8 @@ cm06
 cm07
 - Imagen con buen contraste que ayuda a etiquetar, se destacan los carteles tapando la multitud. Al fondo en el horizonte la gente termina siendo una mancha que se llenó de puntos
 
-
 cm08
-- 
+- Imagen borrosa al hacer mucho zoom. Se distinguen razonablemente bien las cabezas de casi toda la imagen, salvo en el extremo del horizonte, que la marcha parece seguir por dos cuadras.
+- En dicho extremo se colocaron muchos puntos, pero no parece ser una estimación razonable
+- Hay arboles que tapan, se asume se sigue el patrón de gente bajo ellos, salvo en la cuadra que hay poca gente.
 - Se destacan las personas en edificios

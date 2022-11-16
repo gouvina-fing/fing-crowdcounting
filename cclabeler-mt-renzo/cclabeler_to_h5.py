@@ -36,7 +36,7 @@ from scipy import spatial
 from scipy.ndimage import gaussian_filter
 from tqdm import tqdm
 
-BASE_PATH = "cclabeler/data"
+BASE_PATH = "data"
 IMAGE_PATH = f"{BASE_PATH}/images"
 JSON_PATH = f"{BASE_PATH}/jsons"
 
@@ -66,12 +66,18 @@ def gaussian_filter_density(gt):
         pt2d = np.zeros(gt.shape, dtype=np.float32)
         pt2d[pt[1],pt[0]] = 1.
         if gt_count > 1:
-            sigma = (distances[i][1]+distances[i][2]+distances[i][3])*0.1
+            sigma = np.sum(distances[i][1:4])*0.1
+            # sigma = np.mean(distances[i][1:4])*0.1
         else:
-            sigma = np.average(np.array(gt.shape))/2./2. # case: 1 point        
-        # Convolve with the gaussian filter
+            sigma = np.average(np.array(gt.shape))/2./2. # case: 1 point
         
-        density += gaussian_filter(pt2d, sigma, mode='constant')    
+        # Convolve with the gaussian filter
+        kernel_value = gaussian_filter(pt2d, sigma, mode='constant')
+        normalized_kernel_value = kernel_value / np.sum(kernel_value)
+        density += normalized_kernel_value
+    total_sum = np.sum(density)
+    if abs(gt_count - total_sum) > 0.01:
+        import pdb; pdb.set_trace()
     return density
 
 def convert_annotations(data_format = "json", gt_path = JSON_PATH):
@@ -80,6 +86,7 @@ def convert_annotations(data_format = "json", gt_path = JSON_PATH):
     """
     # List of all image paths
     gt_paths = [gt_path for gt_path in glob.glob(os.path.join(gt_path, f"*.{data_format}"))]
+    print(gt_paths)
     print(f"Number of annotations: {len(gt_paths)}")
 
     for gt_path in tqdm(gt_paths):
@@ -101,23 +108,21 @@ def convert_annotations(data_format = "json", gt_path = JSON_PATH):
         #Generate hot encoded matrix of sparse matrix
         for i in range(0,len(gt)):
             if int(gt[i][1])<img.shape[0] and int(gt[i][0])<img.shape[1]:
-                k[int(gt[i][1]),int(gt[i][0])]=1
+                k[int(gt[i][1]), int(gt[i][0])]=1
         
         # generate density map
-        k = gaussian_filter_density(k)
+        density_map = gaussian_filter_density(k)
 
         # File path to save density map
-        file_path = gt_path.replace(f".{data_format}",'.h5')
+        file_path = gt_path.replace("jsons", "h5").replace(f".{data_format}",'.h5')
         
-        # Break
-        # TODO: Add 
         with h5py.File(file_path, 'w') as hf:
-            hf['density'] = k
+            hf['density'] = density_map
 
     print("Finished!")
     print()
     print("Sample Ground Truth:")
-    file_path = gt_paths[0].replace(f".{data_format}",'.h5')
+    file_path = gt_paths[0].replace(f".{data_format}",'.h5').replace("jsons", "h5")
     print(file_path)
     gt_file = h5py.File(file_path,'r')
     groundtruth = np.asarray(gt_file['density'])

@@ -6,3 +6,7 @@ scipy
 matplotlib
 pandas
 tqdm
+opencv-python
+scikit-learn
+tensorflow-gpu
+cuda-python
